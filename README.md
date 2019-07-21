@@ -1,6 +1,6 @@
 # The Go Properties
 
-![](https://travis-ci.org/boennemann/badges.svg?branch=master)![](https://img.shields.io/badge/license-MIT-blue.svg)![](https://img.shields.io/badge/godoc-reference-blue.svg)
+![](https://travis-ci.org/boennemann/badges.svg?branch=master)  ![](https://img.shields.io/badge/license-MIT-blue.svg)  ![](https://img.shields.io/badge/godoc-reference-blue.svg)
 
 Go Properties is migrate java Properties.
 
