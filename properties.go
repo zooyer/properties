@@ -161,14 +161,11 @@ func (p *Properties) loadConvert(in []byte, off, length int, convertBuf []byte) 
 			} else {
 				if aChar == 't' {
 					aChar = '\t'
-				} else
-				if aChar == 'r' {
+				} else if aChar == 'r' {
 					aChar = '\r'
-				} else
-				if aChar == 'n' {
+				} else if aChar == 'n' {
 					aChar = '\n'
-				} else
-				if aChar == 'f' {
+				} else if aChar == 'f' {
 					aChar = '\f'
 				}
 				out[outLen] = aChar
